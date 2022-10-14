@@ -12,6 +12,6 @@ The dataset is a US coffee chain dataset downloaded from https://data.world/qinz
 
 An inspiration for this project came from a personal observation that a good cup of coffee is usually found at boutique coffee shops.  However, these shops do not survive more than 5 years on average. From the interactive dashboards, a plausible explanation can be found.  Sales of coffee though profitable, may not be growing fast enough relative to budget compared to tea.  An important component of a good cup of coffee is a good Espresso machine which typically costs upwards of  US$20,000.  Ideally, coffee sales should be growing at or above budget to cover the capital cost of the machine.  But as the data shows, coffee sales are typically below budget. As such, coffee shops that serve a variety of teas alongside coffees are more likely to sustain the business over the long haul.
 
-As licences are required to view or share on Power BI service, if you would like to view the interactive dashboard, kindly download the file coffee.pbix and view it on Power BI desktop which is free to use.
+As licences are required to view or share on Power BI service, if you would like to view and interact with the dashboard, kindly download the file coffee.pbix and view it on Power BI desktop which is free to use.
 
 
